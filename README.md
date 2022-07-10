@@ -3,7 +3,9 @@ Mathematikhandbuch für die technischen elften Klassen an Fachoberschulen in Bay
 
 # Ist das Buch schon fertig?
 Dieses Buch ist **noch nicht** fertig. Ich stelle in unregelmäßigen Abständen (1 Woche - 2 Monate) die jeweils aktuellste Version hier zur Verfügung.\
-Ist dieser Hinweis verschwunden, ist das Buch vollständig.
+Ist dieser Hinweis verschwunden, ist das Buch vollständig.\
+\
+Da dieses Buch noch in Arbeit ist, freue ich mich über Verbesserungsvorschläge! :)
 
 # Wieso?
 Der Grund, wieso ich dieses Buch schreibe, ist einfach:\
