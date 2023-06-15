@@ -1,10 +1,8 @@
 # Von Vektoren und Polynomen
 Das Handbuch für (technischen) 11. Klassen an Fachoberschulen in Bayern.
 
-Dieses Buch ist **noch nicht** fertig. Ich stelle in unregelmäßigen Abständen die jeweils aktuellste Version hier zur Verfügung.\
-Ist dieser Hinweis verschwunden, ist das Buch vollständig.\
 \
-Da dieses Buch noch in Arbeit ist, freue ich mich über Verbesserungsvorschläge! 🙂
+Ich freue mich über jede Art von Verbesserungsvorschlägen, Fehlerhinweisen oder sonstigem! 🙂
 
 # Was darf ich?
 Zunächst möchte ich folgendes klarstellen: Lehrer oder Individuen dürfen Grafiken, Absätze, Definitionen, Beispiele und Übungen aus meinem Buch entnehmen, solange diese Entnahme der freien Bildung anderer Menschen dient.
